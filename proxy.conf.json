@@ -1,0 +1,8 @@
+{
+    "/Help/Api": {
+      "target": "http://190.60.101.59:6003",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
+  
