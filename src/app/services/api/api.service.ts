@@ -55,7 +55,7 @@ export class ApiService {
 
     protected makeSimplePostRequest<T>(url: string, body: any) {
         //console.log("the url is: ", `${url}`)
-        console.log(body)
+        //console.log(body
         return this.observableToResult<T>(
             this.httpClient.post(`${url}`, body, {
                 headers: new HttpHeaders({

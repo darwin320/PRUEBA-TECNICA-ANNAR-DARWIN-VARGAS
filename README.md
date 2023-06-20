@@ -18,6 +18,6 @@ Una vez se ejecute, desde el navegador de su preferencia puede ir a la direccion
 - http://localhost:4200/
 
 Donde se podra ver el resultado obtenido de la prueba tecnica.
-# PRUEBA-TECNICA-SKANDIA-DARWIN-VARGAS
-Prueba tecnica SKANDIA, DARWIN LEONARDO VARGAS APARICIO, correo: darwinleonardovargas@gmail.com, Celular/Whatsapp: 3158706330
+# PRUEBA-TECNICA-DARWIN-VARGAS
+Prueba tecnica , DARWIN LEONARDO VARGAS APARICIO, correo: darwinleonardovargas@gmail.com, Celular/Whatsapp: 3158706330
 
